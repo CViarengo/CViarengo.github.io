@@ -1,4 +1,3 @@
-# PRIVACY POLICY
 # Privacy Policy for The Armory: A Minecraft Dungeons Game Guide
 
 Last updated: October 2026
