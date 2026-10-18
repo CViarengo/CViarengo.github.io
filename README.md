@@ -2,7 +2,7 @@
 
 Last updated: October 2026
 
-Chris Viarengo built the "Minecraft Dungeons Game Guide" app as an unofficial reference tool. This service is provided at no cost and is intended for use as is.
+Chris Viarengo built "The Armory: A Minecraft Dungeons Game Guide" app as an unofficial reference tool. This service is provided at no cost and is intended for use as is.
 
 1. Information Collection and Use
 We do not collect, store, transmit, or sell any personal data or usage analytics. 
@@ -16,7 +16,7 @@ The app does not integrate any third-party tracking, advertising networks, or an
 Our app collects no personal information from any user, including children under the age of 13, in compliance with COPPA.
 
 4. Intellectual Property Disclaimer
-"Minecraft Dungeons Game Guide" is an unofficial reference companion app. It is not affiliated with, endorsed, sponsored, or approved by Mojang Studios, Xbox Game Studios, or Microsoft Corporation. "Minecraft" and "Minecraft Dungeons" are registered trademarks of Mojang AB.
+"The Armory: A Minecraft Dungeons Game Guide" is an unofficial reference companion app. It is not affiliated with, endorsed, sponsored, or approved by Mojang Studios, Xbox Game Studios, or Microsoft Corporation. "Minecraft" and "Minecraft Dungeons" are registered trademarks of Mojang AB.
 
 5. Contact
 If you have any questions regarding this policy, contact: chrisviarengo725@gmail.com
